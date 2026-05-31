@@ -103,5 +103,3 @@ backend
 ## Author
 
 Ravi Kumar
-B.Tech (Information Technology)
-AKTU University
