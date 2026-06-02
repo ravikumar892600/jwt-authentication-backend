@@ -31,7 +31,7 @@ A backend authentication API built using Node.js, Express.js, MongoDB Atlas, Mon
 1. Clone the repository
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/ravikumar892600/jwt-authentication-backend.git>
 ```
 
 2. Install dependencies
